@@ -260,7 +260,7 @@ public class MainActivity extends AppCompatActivity {
                     "Aditya Garg",
                     "Davide Garberi",
                     "Harsh Shandilya",
-                    "Rahif",
+                    "Rahif M",
                     "Rohit Poroli",
                     "Romil P",
             };
@@ -270,7 +270,7 @@ public class MainActivity extends AppCompatActivity {
                     "Oneplus3/Kenzo/Gemini/Hydrogen",
                     "Zuk z2/Lenovo Z2 Plus",
                     "Jalebi",
-                    "wt88047",
+                    "Wt88047/Falcon/Mido[TEMP]",
                     "Mido",
                     "OnePlus One",
             };
